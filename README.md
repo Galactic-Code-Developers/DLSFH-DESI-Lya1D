@@ -15,9 +15,9 @@ $$
 $$
 
 At the level of the matter power spectrum,
-$\[
-P_m(k,z) \;\rightarrow\; $\exp[-2\,\Xi(z)k^2]\$,P_m(k,z).
-\]$
+$$
+P_m(k,z) \;\to\; \exp\left[-2\,\Xi(z) k^2\right] \, P_m(k,z).
+$$
 
 ## Repository layout
 

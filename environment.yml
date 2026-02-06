@@ -1,0 +1,9 @@
+name: dlsfh-desi-lya1d
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib

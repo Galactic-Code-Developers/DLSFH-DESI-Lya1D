@@ -6,7 +6,7 @@ authors:
     given-names: "Antonios"
 version: "0.1.0"
 date-released: "2026-02-06"
-repository-code: "https://github.com/<YOUR-ORG-OR-USER>/DLSFH-DESI-Lya1D"
+repository-code: "https://github.com/Galactic-Code-Developers/DLSFH-DESI-Lya1D"
 preferred-citation:
   type: article
   title: "A Phenomenological Interface Between Discrete Geometric Transport and Large-Scale Structure Observables"

@@ -11,14 +11,14 @@ We implement the canonical minimal ansatz used in the associated manuscript:
 $\[
 \delta_{\rm DLSFH}(\mathbf{k},z)=T_{\rm DLSFH}(k,z)\,\delta_{\rm GR}(\mathbf{k},z),
 \qquad
-T_{\rm DLSFH}(k,z)=\exp[-\Xi(z)k^2],
+T_{\rm DLSFH}(k,z)=$\exp[-\Xi(z)k^2]$,
 \qquad
 \Xi(z)=\Xi_0 a^2.
 \]$
 
 At the level of the matter power spectrum,
 $\[
-P_m(k,z) \;\rightarrow\; \exp[-2\,\Xi(z)k^2]\,P_m(k,z).
+P_m(k,z) \;\rightarrow\; $\exp[-2\,\Xi(z)k^2]\$,P_m(k,z).
 \]$
 
 ## Repository layout

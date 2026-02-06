@@ -69,11 +69,8 @@ DESI survey reference:
 A versioned snapshot of this repository is intended to be archived on Zenodo
 for a permanent DOI-backed scientific record.
 
-- Concept DOI: `TBD`
-- Version DOI (this release): `TBD`
-
-After Zenodo deposition, update the DOI fields above and (optionally) the
-`CITATION.cff` `repository-code` entry.
+- Concept DOI: `10.5281/zenodo.18505662`
+- Version DOI (this release): `10.5281/zenodo.18505662`
 
 ## License and data terms
 

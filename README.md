@@ -8,13 +8,18 @@ flux power spectrum** measurements.
 
 We implement the canonical minimal ansatz used in the associated manuscript:
 
+The DLSFH suppression acts on the density field as
+
 $$
-\delta_{\rm DLSFH}(\mathbf{k},z) = \exp\left[-\Xi(z) k^2\right] \, \delta_{\rm GR}(\mathbf{k},z),
+\delta_{\rm DLSFH}(\mathbf{k},z) = T_{\rm DLSFH}(k,z) \, \delta_{\rm GR}(\mathbf{k},z),
+\qquad
+T_{\rm DLSFH}(k,z) = \exp\left[-\Xi(z) k^2\right],
 \qquad
 \Xi(z) = \Xi_0 \, a^{2}.
 $$
 
-At the level of the matter power spectrum,
+At the level of the matter power spectrum, this corresponds to the multiplicative suppression factor
+
 $$
 P_m(k,z) \;\to\; \exp\left[-2\,\Xi(z) k^2\right] \, P_m(k,z).
 $$

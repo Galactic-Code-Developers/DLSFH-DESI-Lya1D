@@ -3,10 +3,10 @@
 This repository contains a minimal, reproducible pipeline to compare the
 DLSFH phenomenological transport operator
 
-\[
+$\[
 P_m(k,z) \;\rightarrow\; \exp[-2\,\Xi(z)k^2] \, P_m^{\Lambda\mathrm{CDM}}(k,z),
 \qquad \Xi(z)=\Xi_0 a^2
-\]
+\]$
 
 to **DESI Lyα 1D flux power spectrum** measurements.
 
